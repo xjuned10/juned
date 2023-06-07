@@ -1,0 +1,577 @@
+@keyframes fade-in {
+    0% {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  .macbook-air-1-child {
+    position: absolute;
+    top: 373px;
+    right: -23.54px;
+    width: 1531.04px;
+    height: 223.5px;
+  }
+  .component-child {
+    position: relative;
+    width: 2.04px;
+    height: 0.45px;
+  }
+  .codexquare-1-removebg-previe-icon {
+    position: absolute;
+    top: calc(50% - 177.5px);
+    right: 74.95px;
+    width: 615.05px;
+    height: 598.5px;
+    object-fit: cover;
+    opacity: 0;
+  }
+  .an-interactive-learning-container.animate,
+  .codexquare-1-removebg-previe-icon.animate,
+  .macbook-air-1-inner.animate {
+    animation: 1s ease 0s 1 normal forwards fade-in;
+  }
+  .rectangle,
+  .rectangle-icon {
+    position: absolute;
+    top: 6px;
+    left: 12px;
+    border-radius: 24px;
+    width: 12px;
+    height: 12px;
+  }
+  .rectangle {
+    top: 21px;
+    left: 4px;
+    border-radius: 14px;
+    background-color: #6e6c63;
+    width: 31px;
+    height: 47px;
+  }
+  .avatar-user-60,
+  .component-item {
+    position: absolute;
+    overflow: hidden;
+  }
+  .avatar-user-60 {
+    height: 9.98%;
+    top: 3.06%;
+    bottom: 86.97%;
+    left: 39px;
+    border-radius: 58px;
+    background-color: #1e0224;
+    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.25);
+    width: 36px;
+  }
+  .component-item {
+    height: 17.38%;
+    width: 88.46%;
+    top: 0.75%;
+    right: 3.41%;
+    bottom: 81.88%;
+    left: 8.13%;
+    max-width: 100%;
+    max-height: 100%;
+    mix-blend-mode: color-dodge;
+  }
+  .listbox-title,
+  .listboxbg {
+    position: absolute;
+    height: 6.92%;
+    width: 90.91%;
+    top: 0;
+    right: 4.55%;
+    bottom: 93.08%;
+    left: 4.55%;
+    display: none;
+  }
+  .listboxbg {
+    height: 300%;
+    width: 115.7%;
+    top: -100%;
+    right: -9.09%;
+    bottom: -100%;
+    left: -6.61%;
+    border-radius: var(--br-5xs);
+    background-color: #2c0436;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+  }
+  .chevron-icon {
+    position: absolute;
+    height: 40.57%;
+    width: 5.38%;
+    top: 32.21%;
+    right: -0.62%;
+    bottom: 27.21%;
+    left: 95.24%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .skills {
+    position: absolute;
+    top: -33.37%;
+    left: 0;
+  }
+  .listbox-main,
+  .placeholder-text {
+    position: absolute;
+    height: 100%;
+    width: 76.03%;
+    top: 0;
+    right: 23.97%;
+    bottom: 0;
+    left: 0;
+  }
+  .listbox-main {
+    height: 6.92%;
+    width: 78.57%;
+    top: 16.61%;
+    right: 11.69%;
+    bottom: 76.47%;
+    left: 9.74%;
+  }
+  .b {
+    position: absolute;
+    top: 12px;
+    left: 16px;
+  }
+  .item-1 {
+    align-self: stretch;
+    position: relative;
+    background-color: var(--color-white);
+    height: 44px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .clip-list,
+  .dropdown-list {
+    position: absolute;
+    overflow: hidden;
+  }
+  .dropdown-list {
+    width: 90.91%;
+    top: 68px;
+    right: 4.55%;
+    left: 4.55%;
+    border-radius: var(--br-5xs);
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+    height: 1px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: var(--gap-12xs);
+    opacity: 0;
+  }
+  .clip-list {
+    height: 90.31%;
+    width: 100%;
+    top: 9.69%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    font-size: var(--font-size-base);
+    color: var(--color-gray-100);
+  }
+  .listbox-component {
+    position: absolute;
+    height: 32.4%;
+    width: 11.17%;
+    top: 2%;
+    right: 58.02%;
+    bottom: 65.61%;
+    left: 30.81%;
+    box-shadow: 0 4px 25px rgba(3, 3, 3, 0.25);
+    color: var(--color-mistyrose);
+  }
+  .home {
+    position: absolute;
+    height: 5.99%;
+    width: 5.24%;
+    top: 6.48%;
+    left: 8.13%;
+    font-size: 11.5px;
+    display: inline-block;
+    text-shadow: 0 16px 25px rgba(0, 0, 0, 0.25);
+  }
+  .b3 {
+    font-family: var(--font-montserrat);
+  }
+  .an-interactive,
+  .learning-platform {
+    margin-block-start: 0;
+    margin-block-end: 1px;
+  }
+  .learning-platform {
+    font-size: var(--font-size-21xl);
+    font-weight: 800;
+  }
+  .where-you-can {
+    font-weight: 500;
+  }
+  .coding-skills {
+    margin: 0;
+    font-size: var(--font-size-21xl);
+    font-weight: 800;
+  }
+  .an-interactive-learning-container {
+    position: absolute;
+    top: 169px;
+    left: 104px;
+    line-height: 102.5%;
+    display: inline-block;
+    width: 560px;
+    height: 222px;
+    opacity: 0;
+    font-size: var(--font-size-17xl);
+  }
+  .slice-parent {
+    position: absolute;
+    top: -1px;
+    left: calc(50% - 637px);
+    background: linear-gradient(-30.83deg, #000, #840aa3);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 1279px;
+    height: 401px;
+    text-align: left;
+    font-size: var(--font-size-xs);
+  }
+  .macbook-air-1-item {
+    position: absolute;
+    top: 115px;
+    left: calc(50% + 342px);
+    border-radius: 74px;
+    box-shadow: 0 4px 25px rgba(255, 255, 255, 0.25);
+    width: 41px;
+    height: 26px;
+    overflow: hidden;
+  }
+  .macbook-air-1-inner {
+    position: absolute;
+    top: 533px;
+    left: calc(50% - 560px);
+    width: 316px;
+    height: 109px;
+    opacity: 0;
+  }
+  .listboxbg1 {
+    position: absolute;
+    height: 300%;
+    width: 115.7%;
+    top: -100%;
+    right: -9.09%;
+    bottom: -100%;
+    left: -6.61%;
+    border-radius: var(--br-5xs);
+    background-color: #30043b;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+    display: none;
+  }
+  .chevron-icon1 {
+    position: absolute;
+    height: 40.56%;
+    width: 5.38%;
+    top: 32.22%;
+    right: -0.62%;
+    bottom: 27.22%;
+    left: 95.24%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .skills1 {
+    position: absolute;
+    top: -33.35%;
+    left: 0;
+  }
+  .listbox-component1 {
+    position: absolute;
+    top: 7px;
+    left: calc(50% - 423px);
+    box-shadow: 0 4px 25px rgba(3, 3, 3, 0.25);
+    width: 143px;
+    height: 130px;
+    text-align: left;
+    font-size: var(--font-size-xs);
+    color: var(--color-mistyrose);
+  }
+  .get-access {
+    position: absolute;
+    top: 566px;
+    left: calc(50% - 561px);
+    font-size: var(--font-size-xl);
+    display: inline-block;
+    width: 300px;
+    height: 29px;
+    text-shadow: 4px 3px 8px rgba(255, 255, 255, 0.25);
+  }
+  .masterclass-for {
+    margin: 0;
+  }
+  .masterclass-for-web-container {
+    position: absolute;
+    top: 802px;
+    left: 103px;
+    font-size: 64px;
+    display: inline-block;
+    color: #4d1e79;
+    text-align: left;
+    width: 675px;
+    height: 201px;
+    text-shadow: -1px -1px 11px rgba(0, 0, 0, 0.25);
+  }
+  .r-1 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 783px;
+    left: 761px;
+    border-radius: 65px;
+    width: 477px;
+    height: 356px;
+    background-image: url(./public/r1@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    opacity: 0;
+  }
+  .r-1.animate {
+    animation: 2s ease 0s 1 normal forwards fade-in;
+  }
+  .build-high-quality-websites {
+    letter-spacing: -0.09em;
+  }
+  .c {
+    letter-spacing: -0.07em;
+  }
+  .span {
+    letter-spacing: 0.08em;
+  }
+  .build-high-quality-websites-container1 {
+    line-break: anywhere;
+    width: 100%;
+  }
+  .build-high-quality-websites-container {
+    position: absolute;
+    top: 942px;
+    left: 99px;
+    line-height: 116.4%;
+    display: flex;
+    color: rgba(9, 2, 16, 0.75);
+    text-align: left;
+    align-items: center;
+    width: 679px;
+    height: 221px;
+  }
+  .rectangle-div {
+    position: absolute;
+    top: 1182px;
+    left: 859px;
+    border-radius: 50px;
+    background: linear-gradient(
+      103.92deg,
+      rgba(130, 80, 95, 0.8),
+      rgba(0, 0, 0, 0.8)
+    );
+    box-shadow: 0 4px 22px rgba(0, 0, 0, 0.75);
+    width: 277px;
+    height: 65px;
+    opacity: 0;
+  }
+  .rectangle-div.animate {
+    animation: 1s ease 0s 1 normal forwards fade-in;
+  }
+  .get-into-course,
+  .get-mastered-in {
+    position: absolute;
+    letter-spacing: -0.05em;
+    line-height: 201.4%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .get-into-course {
+    top: 1188px;
+    left: 881px;
+    font-size: var(--font-size-xl);
+    font-weight: 800;
+    color: #f4ece0;
+    width: 257px;
+    height: 53px;
+    text-shadow: 2px 0 4px rgba(0, 0, 0, 0.75);
+  }
+  .get-mastered-in {
+    top: calc(50% - 3078px);
+    left: calc(50% - 183px);
+    color: rgba(0, 0, 0, 0.5);
+    width: 387px;
+    height: 59px;
+  }
+  .c-1-icon,
+  .css-1-icon,
+  .python1-1-icon {
+    position: absolute;
+    top: 1576px;
+    left: 103px;
+    width: 116px;
+    height: 134px;
+    object-fit: cover;
+  }
+  .css-1-icon,
+  .python1-1-icon {
+    top: 1546px;
+    left: 841px;
+    width: 142px;
+    height: 172px;
+  }
+  .python1-1-icon {
+    top: 1576px;
+    left: 1100px;
+    width: 119px;
+    height: 121px;
+  }
+  .macbook-air-1-child1 {
+    position: absolute;
+    top: calc(50% - 2545px);
+    left: calc(50% - 253px);
+    background: linear-gradient(89.97deg, #040404, #594387);
+    box-shadow: 0 15px 17px rgba(0, 0, 0, 0.25);
+    width: 513px;
+    height: 59px;
+  }
+  .view-all-courses {
+    position: absolute;
+    top: 2019px;
+    left: 377px;
+    letter-spacing: -0.05em;
+    line-height: 201.4%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 491px;
+    height: 41px;
+  }
+  .arrow-icon {
+    position: absolute;
+    top: 2028.95px;
+    left: 814px;
+    width: 54.5px;
+    height: 30.09px;
+  }
+  .html-1-icon,
+  .javascript-1-icon {
+    position: absolute;
+    top: 1576px;
+    left: 593px;
+    width: 123px;
+    height: 134px;
+    object-fit: cover;
+  }
+  .javascript-1-icon {
+    left: 345px;
+    height: 128px;
+  }
+  .macbook-air-1-child2,
+  .macbook-air-1-child3,
+  .macbook-air-1-child4 {
+    position: absolute;
+    width: calc(100% - 896px);
+    top: calc(50% - 2435px);
+    right: 821px;
+    left: 75px;
+    border-radius: var(--br-17xl);
+    max-width: 100%;
+    overflow: hidden;
+    height: 574px;
+    object-fit: cover;
+  }
+  .macbook-air-1-child3,
+  .macbook-air-1-child4 {
+    right: 432px;
+    left: 464px;
+  }
+  .macbook-air-1-child4 {
+    width: calc(100% - 895px);
+    right: 43px;
+    left: 852px;
+  }
+  .vector-icon {
+    position: absolute;
+    top: 2424.5px;
+    left: 108.56px;
+    width: 278.44px;
+    height: 203.83px;
+  }
+  .macbook-air-1-child5,
+  .macbook-air-1-child6 {
+    position: absolute;
+    top: 2426px;
+    left: 497px;
+    width: 279px;
+    height: 204px;
+  }
+  .macbook-air-1-child6 {
+    left: 885px;
+    width: 280px;
+  }
+  .c-c {
+    margin: 0;
+    font-size: var(--font-size-sm);
+  }
+  .basics-c-container {
+    top: 2506px;
+    left: 130px;
+    line-height: 201.4%;
+    width: 196px;
+  }
+  .basics-c-container,
+  .front-end-html-css-container,
+  .project-source-code {
+    position: absolute;
+    font-size: var(--font-size-5xl);
+    letter-spacing: -0.05em;
+    display: flex;
+    color: var(--color-black);
+    align-items: center;
+    height: 40px;
+  }
+  .front-end-html-css-container {
+    top: 2515px;
+    left: 534px;
+    line-height: 201.4%;
+    white-space: pre-wrap;
+    width: 196px;
+  }
+  .project-source-code {
+    top: 2519px;
+    left: 921px;
+    line-height: 102.4%;
+    text-align: left;
+    width: 239px;
+  }
+  .macbook-air-1-child7 {
+    position: absolute;
+    top: 2323px;
+    left: 0;
+    width: 1274px;
+    height: 472px;
+  }
+  .macbook-air-1 {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 9110px;
+    opacity: 0;
+    text-align: center;
+    font-size: var(--font-size-13xl);
+    color: var(--color-white);
+    font-family: var(--font-montserrat);
+  }
+  .macbook-air-1.animate {
+    animation: 2s ease 0s 1 normal forwards fade-in;
+  }
+  
